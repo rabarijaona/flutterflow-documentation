@@ -18,6 +18,7 @@ You can [sign up](https://app.flutterflow.io/create-account) via Apple, Google, 
 
 ## System Requirements
 
+
 The FlutterFlow application can be accessed from your browser or installed as a desktop app.
 
 ### General recommendations:
